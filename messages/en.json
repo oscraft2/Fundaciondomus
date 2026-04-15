@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "Fundación Romus | International Catholic Organization",
+    "description": "Fundación Romus is an international Catholic organization dedicated to strengthening Christian values and community welfare."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "mission": "Mission",
+    "contact": "Contact",
+    "blog": "Blog",
+    "donate": "Donate",
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "admin": "Admin Panel"
+  },
+  "home": {
+    "hero": {
+      "title": "Fundación Romus",
+      "subtitle": "An international Catholic organization committed to strengthening Christian values, family, and community welfare.",
+      "cta_learn": "Learn More",
+      "cta_donate": "Support Our Mission"
+    },
+    "values": {
+      "title": "Our Core Values",
+      "faith": {
+        "title": "Faith",
+        "description": "We believe in Christian values as the foundation for a more just and equitable society."
+      },
+      "community": {
+        "title": "Community",
+        "description": "We strengthen community bonds and promote the common good through service."
+      },
+      "compassion": {
+        "title": "Compassion",
+        "description": "We act with compassion toward the most needy, following Christ's example."
+      }
+    },
+    "whatWeDo": {
+      "title": "What We Do",
+      "support": {
+        "title": "Family Support",
+        "description": "We offer programs and resources to strengthen the family."
+      },
+      "education": {
+        "title": "Catholic Education",
+        "description": "We promote Christian education and integral human development."
+      },
+      "social": {
+        "title": "Social Action",
+        "description": "We work in community projects serving the most vulnerable."
+      },
+      "global": {
+        "title": "Global Reach",
+        "description": "We collaborate with Catholic institutions to multiply our impact."
+      }
+    },
+    "cta": {
+      "title": "Want to Join Our Mission?",
+      "subtitle": "Together we can make a difference in the lives of many people.",
+      "button": "Donate Now"
+    },
+    "dailyReading": {
+      "title": "Reading of the Day",
+      "loading": "Loading reading...",
+      "error": "Unable to load today's reading",
+      "gospel": "Gospel",
+      "readings": "Readings"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Discover the latest news and reflections from Fundación Romus",
+    "featured": "Featured",
+    "readMore": "Read More",
+    "readTime": "min read",
+    "by": "By",
+    "on": "on",
+    "categories": "Categories",
+    "faith": "Faith",
+    "community": "Community",
+    "education": "Education",
+    "social": "Social Action",
+    "search": "Search posts...",
+    "noResults": "No posts found",
+    "loadMore": "Load More",
+    "relatedPosts": "Related Posts",
+    "sharePost": "Share this article",
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "subtitle": "Get the latest reflections and news from Fundación Romus",
+      "placeholder": "Your email",
+      "button": "Subscribe",
+      "success": "Thank you for subscribing!",
+      "error": "There was an error. Please try again."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Want to connect with us? We'd love to hear from you.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Thank you for your message! We'll get in touch soon.",
+      "error": "There was an error. Please try again."
+    },
+    "ways": {
+      "email": "Email",
+      "location": "Location",
+      "phone": "Phone",
+      "website": "Website"
+    },
+    "donate": {
+      "title": "Support Our Mission",
+      "small": "Small Donation",
+      "small_desc": "Help with immediate needs",
+      "regular": "Regular Donation",
+      "regular_desc": "Lasting impact on programs",
+      "substantial": "Substantial Donation",
+      "substantial_desc": "Transform lives and communities",
+      "button": "Donate",
+      "monthly": "Monthly Donation",
+      "monthly_desc": "Contribute regularly",
+      "volunteer": "Volunteering",
+      "volunteer_desc": "Join our team",
+      "share": "Sharing",
+      "share_desc": "Share our mission"
+    }
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "dashboard": "Dashboard",
+    "posts": "Posts",
+    "users": "Users",
+    "settings": "Settings",
+    "createPost": "Create Post",
+    "editPost": "Edit Post",
+    "deletePost": "Delete Post",
+    "published": "Published",
+    "draft": "Draft",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Are you sure?"
+  },
+  "footer": {
+    "about": "Fundación Romus is an international Catholic organization dedicated to strengthening Christian values and community welfare.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 Fundación Romus. All rights reserved.",
+    "tagline": "International Catholic organization | Committed to faith and community"
+  }
+}

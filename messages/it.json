@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "Fondazione Romus | Organizzazione Cattolica Internazionale",
+    "description": "La Fondazione Romus è un'organizzazione cattolica internazionale dedicata al rafforzamento dei valori cristiani e al benessere comunitario."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "mission": "Missione",
+    "contact": "Contatti",
+    "blog": "Blog",
+    "donate": "Dona",
+    "login": "Accedi",
+    "logout": "Esci",
+    "admin": "Pannello Admin"
+  },
+  "home": {
+    "hero": {
+      "title": "Fondazione Romus",
+      "subtitle": "Un'organizzazione cattolica internazionale impegnata nel rafforzamento dei valori cristiani, della famiglia e del benessere comunitario.",
+      "cta_learn": "Scopri di Più",
+      "cta_donate": "Sostieni la Nostra Missione"
+    },
+    "values": {
+      "title": "I Nostri Valori Fondamentali",
+      "faith": {
+        "title": "Fede",
+        "description": "Crediamo nei valori cristiani come fondamento per una società più giusta ed equa."
+      },
+      "community": {
+        "title": "Comunità",
+        "description": "Rafforziamo i legami comunitari e promuoviamo il bene comune attraverso il servizio."
+      },
+      "compassion": {
+        "title": "Compassione",
+        "description": "Agiamo con compassione verso i più bisognosi, seguendo l'esempio di Cristo."
+      }
+    },
+    "whatWeDo": {
+      "title": "Cosa Facciamo",
+      "support": {
+        "title": "Sostegno Familiare",
+        "description": "Offriamo programmi e risorse per rafforzare la famiglia."
+      },
+      "education": {
+        "title": "Educazione Cattolica",
+        "description": "Promuoviamo l'educazione cristiana e lo sviluppo integrale."
+      },
+      "social": {
+        "title": "Azione Sociale",
+        "description": "Lavoriamo in progetti comunitari che servono i più vulnerabili."
+      },
+      "global": {
+        "title": "Portata Internazionale",
+        "description": "Collaboriamo con istituzioni cattoliche per moltiplicare il nostro impatto."
+      }
+    },
+    "cta": {
+      "title": "Vuoi Unirtisi alla Nostra Missione?",
+      "subtitle": "Insieme possiamo fare una differenza nella vita di molte persone.",
+      "button": "Dona Ora"
+    },
+    "dailyReading": {
+      "title": "Lettura del Giorno",
+      "loading": "Caricamento lettura...",
+      "error": "Impossibile caricare la lettura del giorno",
+      "gospel": "Vangelo",
+      "readings": "Letture"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Scopri le ultime notizie e riflessioni della Fondazione Romus",
+    "featured": "In Evidenza",
+    "readMore": "Leggi di più",
+    "readTime": "min di lettura",
+    "by": "Di",
+    "on": "il",
+    "categories": "Categorie",
+    "faith": "Fede",
+    "community": "Comunità",
+    "education": "Educazione",
+    "social": "Azione Sociale",
+    "search": "Cerca articoli...",
+    "noResults": "Nessun articolo trovato",
+    "loadMore": "Carica di più",
+    "relatedPosts": "Articoli Correlati",
+    "sharePost": "Condividi questo articolo",
+    "newsletter": {
+      "title": "Iscriviti alla Nostra Newsletter",
+      "subtitle": "Ricevi le ultime riflessioni e notizie della Fondazione Romus",
+      "placeholder": "La tua email",
+      "button": "Iscriviti",
+      "success": "Grazie per l'iscrizione!",
+      "error": "Si è verificato un errore. Riprova."
+    }
+  },
+  "contact": {
+    "title": "Contatti",
+    "subtitle": "Desideri connetterti con noi? Ci piacerebbe ascoltarti.",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Oggetto",
+      "message": "Messaggio",
+      "send": "Invia Messaggio",
+      "success": "Grazie per il tuo messaggio! Ti contatteremo presto.",
+      "error": "Si è verificato un errore. Riprova."
+    },
+    "ways": {
+      "email": "Email",
+      "location": "Posizione",
+      "phone": "Telefono",
+      "website": "Sito Web"
+    },
+    "donate": {
+      "title": "Sostieni la Nostra Missione",
+      "small": "Donazione Piccola",
+      "small_desc": "Aiuta con bisogni immediati",
+      "regular": "Donazione Regolare",
+      "regular_desc": "Impatto duraturo su programmi",
+      "substantial": "Donazione Sostanziale",
+      "substantial_desc": "Trasforma vite e comunità",
+      "button": "Dona",
+      "monthly": "Donazione Mensile",
+      "monthly_desc": "Contribuisci regolarmente",
+      "volunteer": "Volontariato",
+      "volunteer_desc": "Unisciti al nostro team",
+      "share": "Condivisione",
+      "share_desc": "Condividi la nostra missione"
+    }
+  },
+  "admin": {
+    "title": "Pannello Amministrativo",
+    "dashboard": "Dashboard",
+    "posts": "Articoli",
+    "users": "Utenti",
+    "settings": "Impostazioni",
+    "createPost": "Crea Articolo",
+    "editPost": "Modifica Articolo",
+    "deletePost": "Elimina Articolo",
+    "published": "Pubblicato",
+    "draft": "Bozza",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "confirm": "Sei sicuro?"
+  },
+  "footer": {
+    "about": "La Fondazione Romus è un'organizzazione cattolica internazionale dedicata al rafforzamento dei valori cristiani e del benessere comunitario.",
+    "quickLinks": "Link Veloci",
+    "contact": "Contatti",
+    "followUs": "Seguici",
+    "copyright": "© 2025 Fondazione Romus. Tutti i diritti riservati.",
+    "tagline": "Organizzazione cattolica internazionale | Impegnata nella fede e nella comunità"
+  }
+}
